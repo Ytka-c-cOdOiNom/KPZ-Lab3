@@ -1,0 +1,14 @@
+{
+  "name": "cart-module",
+  "version": "1.0.0",
+  "description": "Cart and CartItem classes with Jest tests",
+  "main": "cart.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "author": "Johny Perfomante",
+  "license": "ISC"
+}
